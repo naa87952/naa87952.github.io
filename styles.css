@@ -82,6 +82,9 @@
 		float: left;
 		margin-right: 10px;
 	}
+	textarea{
+		margin-top: 15px;	
+	}
 	
 	/*styling footer section */
 	
