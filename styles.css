@@ -85,6 +85,20 @@
 		margin-top: 15px;	
 	}
 	
+	/*styling faq table*/
+	#faq-table > tbody >tr > td{
+		padding-right: 15px;
+		font-style: italic;
+	}
+	#faq-table > thead > tr > td{
+		font-weight: bold;
+	}
+	.row-last > td{
+		font-weight: bold !important;
+		font-style: normal !important;		
+		padding-top: 20px;
+	}
+	
 	/*styling footer section */
 	
 	#footer-wrapper{
